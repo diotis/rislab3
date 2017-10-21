@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\sharpLab3\sharpLab3\bin\Debug\sharpLab3.exe.config
+c:\users\user\documents\visual studio 2015\Projects\sharpLab3\sharpLab3\bin\Debug\sharpLab3.exe
+c:\users\user\documents\visual studio 2015\Projects\sharpLab3\sharpLab3\bin\Debug\sharpLab3.pdb
+c:\users\user\documents\visual studio 2015\Projects\sharpLab3\sharpLab3\obj\Debug\sharpLab3.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\sharpLab3\sharpLab3\obj\Debug\sharpLab3.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\sharpLab3\sharpLab3\obj\Debug\sharpLab3.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\sharpLab3\sharpLab3\obj\Debug\sharpLab3.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\sharpLab3\sharpLab3\obj\Debug\sharpLab3.exe
+c:\users\user\documents\visual studio 2015\Projects\sharpLab3\sharpLab3\obj\Debug\sharpLab3.pdb
